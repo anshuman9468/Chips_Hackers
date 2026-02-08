@@ -482,10 +482,9 @@ print(f"Predicted: {class_names[predicted_class]} ({confidence*100:.2f}%)")
 This project was built by **Team Chip Hackers** — a group of passionate engineers dedicated to revolutionizing semiconductor manufacturing through AI and edge computing.
 
 **Team Members:**
-- [Member 1 Name] - [Role/Specialization]
-- [Member 2 Name] - [Role/Specialization]
-- [Member 3 Name] - [Role/Specialization]
-- [Member 4 Name] - [Role/Specialization]
+- [Anshuman Dutta] - [Machine Learning & Model Development Lead]
+- [Rajat Kumar] - [Edge Deployment & Optimization Lead]
+- [Abhinav Sharma] - [Data Engineering & Dataset Pipeline Lead]
 
 > *"Hacking chips, one defect at a time!"* 🚀
 
@@ -511,12 +510,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or collaboration opportunities:
 
 - **GitHub Issues**: [Create an issue](https://github.com/yourusername/wafer-defect-classification/issues)
-- **Team Email**: chiphackers@example.com
-
-**Connect with Chip Hackers:**
-- 🌐 Website: [Coming Soon]
-- 💼 LinkedIn: [Team LinkedIn]
-- 🐦 Twitter: [@ChipHackers]
 
 ---
 
@@ -533,3 +526,5 @@ For questions, suggestions, or collaboration opportunities:
 *Built with ❤️ for semiconductor manufacturing quality control*
 
 </div>
+
+---

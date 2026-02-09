@@ -67,6 +67,8 @@ An automated defect classification system that:
 
 ### WM-811K Wafer Map Dataset
 
+### Dataset Zip File-: https://drive.google.com/file/d/12ETqyLBfsj2i6RXf_6dimhgK-26hI60Q/view?usp=sharing
+
 - **Source**: [WM-811K (LSWMD.pkl)](https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map)
 - **Format**: Converted from pickle (.pkl) to PNG images
 - **Image Dimensions**: 64×64 pixels (grayscale)

@@ -66,6 +66,7 @@ An automated defect classification system that:
 ## 📊 Dataset
 
 ### WM-811K Wafer Map Dataset
+### Code link-: https://drive.google.com/file/d/1h2hvI-NzZ_mNPm85cXuZ5qzMBNabFrNo/view?usp=sharing
 
 ### Dataset Zip File-: https://drive.google.com/file/d/12ETqyLBfsj2i6RXf_6dimhgK-26hI60Q/view?usp=sharing
 

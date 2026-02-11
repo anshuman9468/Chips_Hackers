@@ -479,9 +479,9 @@ print(f"Predicted: {class_names[predicted_class]} ({confidence*100:.2f}%)")
 
 ## 👥 Team
 
-### Chip Hackers 💻🔧
+### Chip Vision 💻🔧
 
-This project was built by **Team Chip Hackers** — a group of passionate engineers dedicated to revolutionizing semiconductor manufacturing through AI and edge computing.
+This project was built by **Team Chip Vision** — a group of passionate engineers dedicated to revolutionizing semiconductor manufacturing through AI and edge computing.
 
 **Team Members:**
 - [Anshuman Dutta] - [Machine Learning & Model Development Lead]
@@ -517,7 +517,7 @@ For questions, suggestions, or collaboration opportunities:
 
 <div align="center">
 
-### 🏆 Built by Team Chip Hackers 🏆
+### 🏆 Built by Team Chip Vision 🏆
 
 **Transforming semiconductor manufacturing with Edge-AI, one wafer at a time** 🔬✨
 
